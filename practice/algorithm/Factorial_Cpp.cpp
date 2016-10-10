@@ -1,6 +1,9 @@
-//Factorial
-//2016-10-10
-//by cla
+/*
+Copyright:JadeofMoon
+Auhtor:Cla
+Date:2016-10-10
+Description:Factorial-recursion & tail recursion
+*/
 #include <iostream>
 
 using std::cout;
