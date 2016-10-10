@@ -1,5 +1,4 @@
 /*
-Copyright:JadeofMoon
 Auhtor:Cla
 Date:2016-10-10
 Description:Factorial-recursion & tail recursion
