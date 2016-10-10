@@ -1,4 +1,3 @@
-# Copyright:JadeofMoon
 # Date:2016-10-10
 # Author Cla
 # Description:factorial by recursion & tail recursion
