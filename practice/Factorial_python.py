@@ -1,5 +1,5 @@
-```python
-# factorial
+# factorial by recursion & tail recursion
+# time:2016-10-10
 # by Cla
 class Factorial():
     def __init__(self, n):
@@ -25,5 +25,3 @@ class Factorial():
 fr = Factorial(10)
 print(fr.factorial_by_recursion(10))
 print(fr.factorial_by_tail_recursion(20, 1))
-
-```
