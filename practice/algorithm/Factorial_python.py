@@ -1,6 +1,7 @@
-# factorial by recursion & tail recursion
-# time:2016-10-10
-# by Cla
+# Copyright:JadeofMoon
+# Date:2016-10-10
+# Author Cla
+# Description:factorial by recursion & tail recursion
 class Factorial():
     def __init__(self, n):
         self.n = n
